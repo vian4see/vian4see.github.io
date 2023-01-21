@@ -1,0 +1,86 @@
+baseURL: "https://vian4see.github.io"
+languageCode: en-us
+title: "Viana's Site"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+
+Paginate: 3
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: blog
+      name: "Blog"
+      title: "Blog posts"
+      url: "/blogs/"
+      weight: 1
+
+params:
+  title: "Viana's Site"
+  description: "Just personal notes"
+  favicon: "/favicon-32x32.png"
+
+  theme:
+    # disableThemeToggle: true
+    # defaultTheme: "light" # dark
+
+  font:
+    fontSize: 1rem # default: 1rem
+    fontWeight: 400 # default: 400
+    lineHeight: 1.5 # default: 1.5
+    textAlign: left # default: left
+
+  navbar:
+    align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    brandLogo: "/brand.png" # Logo for the brand | default is the favicon variable
+    brandName: "Viana's Site" # Brand name for the brand | default is the title variable
+    disableSearch: false
+    menus:
+      disableAbout: true
+      disableExperience: true
+      disableEducation: true
+      disableProjects: true
+      disableAchievements: true
+      disableContact: true
+
+  hero:
+    enable: true
+    intro: "Hi there! I am"
+    title: "Selly Seviana."
+    subtitle: "These are just my notes"
+    content: "A Sharia Accounting student at an Islamic Institute in Indonesia. The blog-posts here are my personal thoughts to express everything that comes to my mind."
+    image: "https://img.freepik.com/free-vector/illustration-female-character-wearing-hijab-working-office_10045-686.jpg"
+    button:
+      enable: true
+      name: "Mail Me!"
+      url: "mailto:sellyseviana@proton.me"
+      download: false
+      newPage: true
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: "https://github.com/vian4see"
+        - icon: fab fa-twitter
+          url: "https://twitter.com/ngamericano"
+        - icon: fab fa-instagram
+          url: "https://instagram.com/sevianaselly"
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: "Recent Posts"
+      enable: true
+      disableFeaturedImage: false
