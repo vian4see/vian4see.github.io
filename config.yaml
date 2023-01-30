@@ -1,6 +1,6 @@
 baseURL: "https://vian4see.github.io"
 languageCode: en-us
-title: "Viana's Site"
+title: "vian4see"
 theme: hugo-profile
 
 outputs:
@@ -28,7 +28,7 @@ Menus:
       weight: 1
 
 params:
-  title: "Viana's Site"
+  title: "vian4see"
   description: "Just personal notes"
   favicon: "/favicon-32x32.png"
 
@@ -45,7 +45,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     brandLogo: "/brand.png" # Logo for the brand | default is the favicon variable
-    brandName: "Viana's Site" # Brand name for the brand | default is the title variable
+    brandName: "vian4see" # Brand name for the brand | default is the title variable
     disableSearch: false
     menus:
       disableAbout: true
