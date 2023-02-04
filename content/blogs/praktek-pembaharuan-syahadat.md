@@ -13,7 +13,13 @@ toc: true
 
 <div style="text-align:justify">
 
-Syahadat bagi seorang muslim semestinya sudah disadari sejak sebelum ia terlahir ke dunia hingga ajal. Sebab, mereka telah melakukan sebuah kesaksian (syahadat), baiat, syahadat azali atau syahadat asli di hadapan Tuhan. Bukan hanya dialami oleh pengikut Nabi Muhammad SAW semata, tetapi sebagai potensi alami (fitrah) yang dititipkan oleh Tuhan kepada setiap manusia di dunia ini. Hanya saja tidak setiap orang menyadari dalam suasana apa, kapan, di mana, dan bagaimana syahadat azali itu ucapkan. Hal itu sebagaimana terungkap dalam Q.S. al-A’raf (7): 172.
+Syahadat bagi seorang muslim semestinya sudah disadari sejak sebelum ia terlahir ke dunia hingga ajal. Sebab, mereka telah melakukan sebuah kesaksian (syahadat), baiat, syahadat azali atau syahadat asli di hadapan Tuhan. Bukan hanya dialami oleh pengikut Nabi Muhammad SAW semata, tetapi sebagai potensi alami (fitrah) yang dititipkan oleh Tuhan kepada setiap manusia di dunia ini. Hanya saja tidak setiap orang menyadari dalam suasana apa, kapan, di mana, dan bagaimana syahadat azali itu ucapkan. Hal itu sebagaimana terungkap dalam Q.S. al-A’raf (7): 172. Dalam ayat tersebut, Allah bermaksud untuk menjelaskan kepada manusia, bahwa hakikat kejadian manusia itu didasari atas kepercayaan kepada Allah Yang Maha Esa. Sejak manusia itu dilahirkan dari rahim orang tua mereka, ia sudah menyaksikan tanda-tanda keesaan Allah pada kejadian mereka sendiri. Allah berfirman pada ayat lain yang artinya:
+
+> Maka, hadapkanlah wajahmu dengan lurus kepada _din_ (Islam sesuai) fitrah (dari) Allah yang telah menciptakan manusia menurut (fitrah) itu. Tidak ada perubahan pada ciptaan Allah (tersebut). Itulah _din_ (agama) yang lurus, tetapi kebanyakan manusia tidak mengetahui. (ar-Rµm/30: 30)
+
+Fitrah Allah maksudnya ialah tauhid. Rasulullah bersabda:
+
+> “Tak seorang pun yang dilahirkan kecuali menurut fitrah, kedua orang tuanyalah yang menjadikan dia Yahudi, Nasrani atau Majusi. Sebagaimana halnya hewan melahirkan anaknya yang sempurna telinganya, adakah kamu ketahui ada cacat pada anak hewan itu?” (Riwayat al-Bukhari Muslim, dari Abu Hurairah)
 
 </div>
 
