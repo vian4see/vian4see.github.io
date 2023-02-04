@@ -6,7 +6,7 @@ author: "Selly Seviana"
 tags:
   - Syahadat
   - Pembaharuan
-image: "https://i.pinimg.com/originals/24/15/da/2415da8032b5d99c19fb398bd08de970.jpg"
+image: ""
 description: ""
 toc: true
 ---
